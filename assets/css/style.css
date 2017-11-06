@@ -70,7 +70,7 @@ ul {
 	background-color: #fdfbf2;
 	width: 100%;
 	height: 100px;
-	padding: 0px;
+	padding: 8px;
 	display: block;
 	position: relative;
 }
@@ -98,7 +98,7 @@ ul {
 	background-color: #fdfbf2;
 	width: 100%;
 	height: 275px;
-	padding: 64px 0px 96px 18px;
+	padding: 124px 0px 96px 18px;
 	/*bottom: 70px;*/
 }
 
