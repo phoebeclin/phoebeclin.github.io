@@ -69,8 +69,8 @@ ul {
 .about-container {
 	background-color: #fdfbf2;
 	width: 100%;
-	height: 200px;
-	padding: 65px 0px;
+	height: 100px;
+	padding: 0px;
 	display: block;
 	position: relative;
 }
@@ -98,7 +98,7 @@ ul {
 	background-color: #fdfbf2;
 	width: 100%;
 	height: 275px;
-	padding: 20px 0px 120px 18px;
+	padding: 64px 0px 96px 18px;
 	/*bottom: 70px;*/
 }
 
@@ -110,7 +110,7 @@ ul {
 	display: block;
 	margin-right: 24px;
 	object-position: center;
-	top: 20px;
+	top: 32px;
 	left: 16px;
 }
 
